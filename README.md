@@ -42,4 +42,4 @@ El juego es un solo archivo. Descargá `index.html` y abrilo con tu navegador. L
 ## Notas
 
 - Los puntajes se guardan solo en tu dispositivo y no se envían a ningún lado.
-- Si borrás los datos del navegador, se borran también los récords.
+- Si borrás los datos del navegador, se borran también los récords. 
